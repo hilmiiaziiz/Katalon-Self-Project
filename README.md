@@ -1,4 +1,4 @@
-# Skill-Test-Efishery-Katalon
+# Katalon
 1. Install katalon studio
 2. Clone Project first
 3. Open the "Include" folder
